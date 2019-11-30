@@ -1,0 +1,72 @@
+td{
+    border: 1px Solid Black;
+    font: 12pt sans-serif;
+}
+table{
+    border-collapse: collapse;
+}
+.he{
+    color: #ff9e00;
+    font-size: 150%;
+    background-color: darkblue;
+    height: 50px;
+}
+.ha{
+    font-style: italic;
+    font-size: 90%;
+    background-color: antiquewhite;
+}
+.a{
+    margin-top: 100px;
+    background-color: darkblue;
+    color: antiquewhite;
+    font-size: 80%;
+}
+.a1{
+    border: 3px solid darkred;
+}
+.a2{
+    font-style: italic;
+    background-color: antiquewhite;
+}
+.a3{
+    background-color: darkgreen;
+    color: #FFA500;
+    font-size: 120%;
+}
+.a4{
+    background-color: darkgoldenrod;
+    font-style: italic;
+}
+.a5{
+    background-color: #999999;
+    font-style: italic;
+}
+.a6{
+    background-color: darkgreen;
+    color: #ff9e00;
+    font-size: 70%;
+}
+.a7{
+    background-color: indigo;
+    font-style: italic;
+    text-align: center;
+    width: 70px;
+    color: white;
+    border: 3px solid #8b2b26;
+}
+.a8{
+    background-color: blueviolet;
+    font-size: 120%;
+    border: 3px solid #8b2b26;
+}
+.a9{
+    font-style: italic;
+    border: 3px solid #8b2b26;
+    background-color: darksalmon;
+}
+.a10{
+    font-style: italic;
+    border: 3px solid #8b2b26;
+    background-color: rgb(255, 175, 156);
+}
